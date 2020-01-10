@@ -3,3 +3,4 @@ slides_3_0_0/5_Vehicle/3_ChronoVehicle_Tracked.pdf filter=lfs diff=lfs merge=lfs
 slides_3_0_0/5_Vehicle/2_ChronoVehicle_Wheeled.pdf filter=lfs diff=lfs merge=lfs -text
 slides_3_0_0/6_OtherModules/1_ChronoParallel.pdf filter=lfs diff=lfs merge=lfs -text
 slides_3_0_0/3_Contact/1_Chrono_TheoryContact.pdf filter=lfs diff=lfs merge=lfs -text
+*.pdf filter=lfs diff=lfs merge=lfs -text
