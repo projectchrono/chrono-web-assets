@@ -1,0 +1,92 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2600 1980" width="2600" height="1980" font-family="'Segoe UI', 'Aptos', Arial, sans-serif">
+<rect width="2600" height="1980" fill="white"/>
+<polygon points="1280,60 2455,60 2455,735 1878,735 1878,375 1280,375" fill="none" stroke="#1f5fa8" stroke-width="4" stroke-dasharray="16,9"/>
+<polygon points="655,440 1825,440 1825,555 2478,555 2478,760 655,760" fill="none" stroke="#2e8b3a" stroke-width="4" stroke-dasharray="16,9"/>
+<polygon points="35,400 2500,400 2500,1492 35,1492" fill="none" stroke="#c8641e" stroke-width="4" stroke-dasharray="16,9"/>
+<polygon points="1906,578 2560,578 2560,1860 655,1860 655,1500 1275,1500 1275,1260 1830,1260 1830,1185 1906,1185" fill="none" stroke="#8a3fa0" stroke-width="4" stroke-dasharray="16,9"/>
+<text x="730" y="115" font-size="50" font-weight="bold" fill="#1f5fa8">vehicle problem</text>
+<line x1="1140" y1="100" x2="1296" y2="74" stroke="#1f5fa8" stroke-width="3"/>
+<circle cx="1296" cy="74" r="11" fill="#1f5fa8"/>
+<text x="330" y="345" font-size="50" font-weight="bold" fill="#2e8b3a">MBS problem</text>
+<line x1="520" y1="362" x2="671" y2="455" stroke="#2e8b3a" stroke-width="3"/>
+<circle cx="671" cy="455" r="11" fill="#2e8b3a"/>
+<text x="40" y="250" font-size="50" font-weight="bold" fill="#c8641e">FSI problem</text>
+<line x1="160" y1="268" x2="52" y2="416" stroke="#c8641e" stroke-width="3"/>
+<circle cx="52" cy="416" r="11" fill="#c8641e"/>
+<text x="205" y="1945" font-size="50" font-weight="bold" fill="#8a3fa0">wheel rig problem</text>
+<line x1="560" y1="1902" x2="671" y2="1860" stroke="#8a3fa0" stroke-width="3"/>
+<circle cx="671" cy="1860" r="11" fill="#8a3fa0"/>
+<polygon points="1930,120 2030,100 2420,100 2420,206 1930,206" fill="white" stroke="black" stroke-width="3"/>
+<text x="2175.0" y="171.0" font-size="50" text-anchor="middle">vehicle model</text>
+<polygon points="1310,230 1410,210 1800,210 1800,316 1310,316" fill="white" stroke="black" stroke-width="3"/>
+<text x="1555.0" y="281.0" font-size="50" text-anchor="middle">vehicle simulation</text>
+<polyline points="1800,263.0 1845,263.0" fill="none" stroke="black" stroke-width="3"/>
+<polyline points="1845,153.0 1845,653.0" fill="none" stroke="black" stroke-width="3"/>
+<polyline points="1845,153.0 1910,153.0" fill="none" stroke="black" stroke-width="3"/>
+<polygon points="1908,142.0 1930,153.0 1908,164.0" fill="black"/>
+<polygon points="1310,490 1410,470 1800,470 1800,576 1310,576" fill="white" stroke="black" stroke-width="3"/>
+<text x="1555.0" y="541.0" font-size="50" text-anchor="middle">MBS model</text>
+<polygon points="690,555 790,535 1180,535 1180,641 690,641" fill="white" stroke="black" stroke-width="3"/>
+<text x="935.0" y="606.0" font-size="50" text-anchor="middle">MBS simulation</text>
+<polygon points="1930,620 2030,600 2420,600 2420,706 1930,706" fill="white" stroke="black" stroke-width="3"/>
+<text x="2175.0" y="671.0" font-size="50" text-anchor="middle">MBS solver</text>
+<polyline points="1180,588.0 1250,588.0" fill="none" stroke="black" stroke-width="3"/>
+<polyline points="1250,523.0 1250,653.0" fill="none" stroke="black" stroke-width="3"/>
+<polyline points="1250,523.0 1290,523.0" fill="none" stroke="black" stroke-width="3"/>
+<polygon points="1288,512.0 1310,523.0 1288,534.0" fill="black"/>
+<polyline points="1250,653.0 1910,653.0" fill="none" stroke="black" stroke-width="3"/>
+<polygon points="1908,642.0 1930,653.0 1908,664.0" fill="black"/>
+<polygon points="70,687.5 170,667.5 560,667.5 560,773.5 70,773.5" fill="white" stroke="black" stroke-width="3"/>
+<text x="315.0" y="738.5" font-size="50" text-anchor="middle">FSI simulation</text>
+<rect x="690" y="800" width="490" height="106" rx="53" fill="white" stroke="black" stroke-width="3"/>
+<text x="935.0" y="871.0" font-size="50" text-anchor="middle">fluid simulation</text>
+<polyline points="560,720.5 630,720.5" fill="none" stroke="black" stroke-width="3"/>
+<polyline points="630,588.0 630,853.0" fill="none" stroke="black" stroke-width="3"/>
+<polyline points="630,588.0 670,588.0" fill="none" stroke="black" stroke-width="3"/>
+<polygon points="668,577.0 690,588.0 668,599.0" fill="black"/>
+<polyline points="630,853.0 670,853.0" fill="none" stroke="black" stroke-width="3"/>
+<polygon points="668,842.0 690,853.0 668,864.0" fill="black"/>
+<polygon points="690,1050 790,1030 1180,1030 1180,1136 690,1136" fill="white" stroke="black" stroke-width="3"/>
+<text x="935.0" y="1101.0" font-size="50" text-anchor="middle">TDPF simulation</text>
+<polygon points="1310,970 1410,950 1800,950 1800,1056 1310,1056" fill="white" stroke="black" stroke-width="3"/>
+<text x="1555.0" y="1021.0" font-size="50" text-anchor="middle">TDPF solver</text>
+<polygon points="1310,1120 1410,1100 1800,1100 1800,1206 1310,1206" fill="white" stroke="black" stroke-width="3"/>
+<text x="1555.0" y="1171.0" font-size="50" text-anchor="middle">TDPF model</text>
+<polyline points="1180,1083.0 1250,1083.0" fill="none" stroke="black" stroke-width="3"/>
+<polyline points="1250,1003.0 1250,1153.0" fill="none" stroke="black" stroke-width="3"/>
+<polyline points="1250,1003.0 1290,1003.0" fill="none" stroke="black" stroke-width="3"/>
+<polygon points="1288,992.0 1310,1003.0 1288,1014.0" fill="black"/>
+<polyline points="1250,1153.0 1290,1153.0" fill="none" stroke="black" stroke-width="3"/>
+<polygon points="1288,1142.0 1310,1153.0 1288,1164.0" fill="black"/>
+<polygon points="1310,1310 1410,1290 1800,1290 1800,1396 1310,1396" fill="white" stroke="black" stroke-width="3"/>
+<text x="1555.0" y="1361.0" font-size="50" text-anchor="middle">SPH simulation</text>
+<polygon points="1930,1230 2030,1210 2420,1210 2420,1316 1930,1316" fill="white" stroke="black" stroke-width="3"/>
+<text x="2175.0" y="1281.0" font-size="50" text-anchor="middle">SPH solver</text>
+<polygon points="1930,1380 2030,1360 2420,1360 2420,1466 1930,1466" fill="white" stroke="black" stroke-width="3"/>
+<text x="2175.0" y="1431.0" font-size="50" text-anchor="middle">SPH model</text>
+<polyline points="1800,1343.0 1845,1343.0" fill="none" stroke="black" stroke-width="3"/>
+<polyline points="1845,1263.0 1845,1413.0" fill="none" stroke="black" stroke-width="3"/>
+<polyline points="1845,1263.0 1910,1263.0" fill="none" stroke="black" stroke-width="3"/>
+<polygon points="1908,1252.0 1930,1263.0 1908,1274.0" fill="black"/>
+<polyline points="1845,1413.0 1910,1413.0" fill="none" stroke="black" stroke-width="3"/>
+<polygon points="1908,1402.0 1930,1413.0 1908,1424.0" fill="black"/>
+<polyline points="935.0,906 935.0,1030" fill="none" stroke="black" stroke-width="3" stroke-dasharray="3,7"/>
+<polyline points="935.0,1136 935.0,1228 1555.0,1228 1555.0,1290" fill="none" stroke="black" stroke-width="3" stroke-dasharray="3,7"/>
+<polygon points="1310,1580 1410,1560 1800,1560 1800,1666 1310,1666" fill="white" stroke="black" stroke-width="3"/>
+<text x="1555.0" y="1631.0" font-size="50" text-anchor="middle">terrain</text>
+<polygon points="690,1660 790,1640 1180,1640 1180,1746 690,1746" fill="white" stroke="black" stroke-width="3"/>
+<text x="935.0" y="1711.0" font-size="50" text-anchor="middle">wheel rig simulation</text>
+<polygon points="1310,1740 1410,1720 1800,1720 1800,1826 1310,1826" fill="white" stroke="black" stroke-width="3"/>
+<text x="1555.0" y="1791.0" font-size="50" text-anchor="middle">rig model</text>
+<polyline points="1180,1693.0 1250,1693.0" fill="none" stroke="black" stroke-width="3"/>
+<polyline points="1250,1613.0 1250,1773.0" fill="none" stroke="black" stroke-width="3"/>
+<polyline points="1250,1613.0 1290,1613.0" fill="none" stroke="black" stroke-width="3"/>
+<polygon points="1288,1602.0 1310,1613.0 1288,1624.0" fill="black"/>
+<polyline points="1250,1773.0 1290,1773.0" fill="none" stroke="black" stroke-width="3"/>
+<polygon points="1288,1762.0 1310,1773.0 1288,1784.0" fill="black"/>
+<polyline points="1555.0,1560 1555.0,1416" fill="none" stroke="black" stroke-width="3" stroke-dasharray="12,8"/>
+<polygon points="1544.0,1418 1555.0,1396 1566.0,1418" fill="black"/>
+<text x="1573.0" y="1540" font-size="32" font-style="italic">CRM terrain only</text>
+<polyline points="1800,1773.0 2530,1773.0 2530,653.0 2440,653.0" fill="none" stroke="black" stroke-width="3"/>
+<polygon points="2442,642.0 2420,653.0 2442,664.0" fill="black"/>
+</svg>
